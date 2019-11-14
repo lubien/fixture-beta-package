@@ -1,0 +1,26 @@
+{
+  "name": "@lubien/fixture-beta-package",
+  "version": "1.0.0-beta.1",
+  "description": "Fixture package to test https://github.com/sindresorhus/eslint-plugin-unicorn/issues/432",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"sucess\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubien/fixture-beta-package.git"
+  },
+  "keywords": [
+    "fixture",
+    "wip",
+    "fake",
+    "dont",
+    "use"
+  ],
+  "author": "lubien <lubien1996@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lubien/fixture-beta-package/issues"
+  },
+  "homepage": "https://github.com/lubien/fixture-beta-package#readme"
+}
